@@ -53,11 +53,3 @@ Website: https://shooting-stars-foundation.org/
 LinkedIn: https://www.linkedin.com/company/shooting-stars-foundation-inc/
 
 This repository was created by **Zubeda Yasmeen** in the context of assisting with the technical preparation of SSF donor-story emails.
-
-## License
-
-The MIT License included in this repository applies to the **original technical code/template implementation created by the repository author**.
-
-It does **not** grant permission to use, reproduce, modify, or redistribute SSF's stories, photographs, personal information, or other organizational materials contained in the templates.
-
-For permission to use SSF-owned content, please contact Shooting Stars Foundation directly.
